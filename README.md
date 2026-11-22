@@ -1,4 +1,4 @@
-# DM2026 Lab 2
+    # DM2026 Lab 2
 
 Your map of the lab: what to do, in what order, where files live, and what to submit. You will represent SemEval emotion tweets, train classifiers, compare retrieval methods, direct an agent over the saved pipeline, and build a model for the class Kaggle competition.
 
